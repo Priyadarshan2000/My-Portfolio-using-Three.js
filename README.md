@@ -1,4 +1,4 @@
-## Usage
+## Requirement
 
 ```
 npm install
