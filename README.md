@@ -7,6 +7,16 @@
 ## PROJECT & ACHIEVEMENT
 ![image](https://user-images.githubusercontent.com/62868878/120115596-fe94eb80-c1a1-11eb-80c6-2c8423bfc449.png)
 
+## QUOTE
+![image](https://user-images.githubusercontent.com/62868878/120115629-28e6a900-c1a2-11eb-8557-1c4e0a3b3f8e.png)
+
+## EXPERIENCE
+![image](https://user-images.githubusercontent.com/62868878/120115635-33a13e00-c1a2-11eb-92fe-c8b3784323fc.png)
+
+## THANK YOU
+![Uploading image.png…]()
+
+
 
 ## Requirement
 
