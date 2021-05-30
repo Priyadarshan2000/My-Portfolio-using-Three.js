@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/62868878/120115635-33a13e00-c1a2-11eb-92fe-c8b3784323fc.png)
 
 ## THANK YOU
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/62868878/120115676-6c411780-c1a2-11eb-8286-36063186b036.png)
 
 
 
